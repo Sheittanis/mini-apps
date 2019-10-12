@@ -21,6 +21,11 @@ const Header = ({ siteTitle }) => (
             Settings
         </Link>
         </span>
+        <span className="verticalLine">
+          <Link to="/coinFlip" className="headerLink">
+            Settings
+        </Link>
+        </span>
       </h1>
     </div>
   </header>

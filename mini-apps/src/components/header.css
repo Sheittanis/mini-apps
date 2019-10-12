@@ -6,7 +6,8 @@
 .headerLink {
     color: white;
     text-decoration: none;
-    margin: 1rem
+    margin: 1rem;
+    font-size: calc(14px + 1vmin);
 }
 
 .verticalLine {
