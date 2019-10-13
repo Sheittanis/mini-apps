@@ -1,5 +1,4 @@
 import React, { useState } from "react"
-import Select from 'react-select';
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"

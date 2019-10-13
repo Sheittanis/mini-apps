@@ -12,16 +12,6 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
         <span className="verticalLine">
-          <Link to="/about" className="headerLink">
-            About
-        </Link>
-        </span>
-        <span className="verticalLine">
-          <Link to="/settings" className="headerLink">
-            Settings
-        </Link>
-        </span>
-        <span className="verticalLine">
           <Link to="/coinFlip" className="headerLink">
             Coin Flip
         </Link>
