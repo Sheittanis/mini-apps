@@ -1,9 +1,6 @@
 import React, { useState } from "react"
 import Select from 'react-select';
 
-
-
-
 const DiceRollPage = (props) => {
     const {options,setSelection } = props
     const [option, setOption] = useState(null);
