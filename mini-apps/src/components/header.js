@@ -23,7 +23,12 @@ const Header = ({ siteTitle }) => (
         </span>
         <span className="verticalLine">
           <Link to="/coinFlip" className="headerLink">
-            Settings
+            Coin Flip
+        </Link>
+        </span>
+        <span className="verticalLine">
+          <Link to="/diceRoll" className="headerLink">
+            Roll a Dice
         </Link>
         </span>
       </h1>
