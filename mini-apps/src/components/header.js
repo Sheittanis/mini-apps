@@ -21,6 +21,12 @@ const Header = ({ siteTitle }) => (
             Roll a Dice
         </Link>
         </span>
+        
+        <span className="verticalLine">
+          <Link to="/countTo" className="headerLink">
+            Count To
+        </Link>
+        </span>
       </h1>
     </div>
   </header>
